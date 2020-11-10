@@ -1,4 +1,4 @@
-# test-vuex
+# test-vuex-axios 简易聊天机器人
 
 ## Project setup
 ```
